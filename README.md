@@ -1,2 +1,2 @@
 # I-have-a-say
-It is meant for adding comment & reply with the help of javaScript
+It is meant for adding comment, like & reply  with the help of javaScript
